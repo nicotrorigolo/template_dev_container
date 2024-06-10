@@ -1,0 +1,3 @@
+# Fichier ou dossier qui ne vont pas être copier ou ajouter 
+# dans l'image lors du build
+.devcontainer
